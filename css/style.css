@@ -1,4 +1,4 @@
-
+/* parte iniziale */
 header {
     margin: 0;
     padding: 0;
@@ -26,6 +26,10 @@ header {
     margin: 30px 0px 30px 0px;
 }
 
+.evidenziato {
+    background-color: yellow;
+}
+/* tabella */
 .riga1 {
     font-size: 1.7em;
     color: white;
@@ -35,7 +39,7 @@ header {
 .riga2 {
     background-color: lightblue;
 }
-
+/* parte finale */
 .img {
     background-image: url(../img/monitor.jpg);
     height: 208px;
