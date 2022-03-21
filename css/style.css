@@ -1,10 +1,7 @@
-* {
-    padding: 0;
-    margin: 0;
-}
-
 
 header {
+    margin: 0;
+    padding: 0;
     width: cover;
     height: 180px;
     background-image: url(../img/pattern.png);
@@ -17,10 +14,42 @@ header {
     height: 100px;
 }
 
-header > div {
+.grey {
     color: grey;
 }
 
 .color {
     color: blue;
+}
+
+.margin {
+    margin: 30px 0px 30px 0px;
+}
+
+.riga1 {
+    font-size: 1.7em;
+    color: white;
+    background-color: aqua;
+}
+
+.riga2 {
+    background-color: lightblue;
+}
+
+.img {
+    background-image: url(../img/monitor.jpg);
+    height: 208px;
+    width: 312px; 
+    margin-bottom: 30px;
+}
+
+.img1 {
+    background-image: url(../img/graph.jpg);
+    height: 207px;
+    width: 311px; 
+}
+
+.scritta {
+    font-size: 1.2em;
+    color: white;
 }
