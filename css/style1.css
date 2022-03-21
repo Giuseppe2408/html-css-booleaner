@@ -1,11 +1,17 @@
 /* parte iniziale */
+
+
 header {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     width: cover;
     height: 180px;
     background-image: url(../img/pattern.png);
     background-color: aqua;
+}
+
+.container {
+    margin: 0px 100px 0px 100px;
 }
 
 #logo {
